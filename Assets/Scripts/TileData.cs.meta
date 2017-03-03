@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 76bf2ec2ca9e49c488d20bacf8d89dfc
+timeCreated: 1488238034
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - grass_sprite: {fileID: 21300000, guid: 73f70b7ccea56fe4d883e3807d5e81a7, type: 3}
+  - mountain_sprite: {fileID: 21300000, guid: 2999c362835faa349ad5a7f5c76f2f82, type: 3}
+  - unit: {instanceID: 0}
+  - indicator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
